@@ -1,3 +1,6 @@
 [submodule "Vue/Vue_GraphQL"]
 	path = Vue/Vue_GraphQL
 	url = https://github.com/ItzGuuh/Vue_GraphQL.git
+[submodule "C++/OpenGL_Playground"]
+	path = C++/OpenGL_Playground
+	url = https://github.com/ItzGuuh/OpenGL_Playground.git
