@@ -1,0 +1,3 @@
+[submodule "Vue/Vue_GraphQL"]
+	path = Vue/Vue_GraphQL
+	url = https://github.com/ItzGuuh/Vue_GraphQL.git
